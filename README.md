@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jalenm872
 - 👀 I’m interested in coding, gaming, sports!
-- 🌱 I’m currently learning Operating Systems and Networks
+- 🌱 I’m currently learning Computer Organization and Design and Analysis of Algorithm
 - 💞️ I’m looking to collaborate on VR Development
 - 📫 How to reach me: jalenm872@gmail.com
 
