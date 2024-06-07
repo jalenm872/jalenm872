@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jalenm872
+- 👋 Hi, I’m @jalenm872! I am an aspiring Software Engineer!
 - 👀 I’m interested in coding, gaming, sports!
 - 🌱 I’m currently working on side projects to expand my knowledge
 - 💞️ I’m looking to collaborate on VR Development
